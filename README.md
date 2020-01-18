@@ -23,8 +23,8 @@ The benefits of practicing this problem by using Machine Learning techniques are
  5- Control Metric
  6- Turbulence In gforces
  7- Cabin Temprature
- 9- Accident type
- 10- Max_ Elevation
- 11- Violations
- 12- Adverse Weather Metric
- 13- Accident ID
+ 8- Accident type
+ 9- Max_ Elevation
+ 10- Violations
+ 11- Adverse Weather Metric
+ 12- Accident ID
