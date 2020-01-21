@@ -16,15 +16,15 @@ The benefits of practicing this problem by using Machine Learning techniques are
 ### Testing Dataset - 2500
 
 ### Attributes :
- 1- Severity (target)
- 2- Safety Score
- 3- Days Since Inspection
- 4- Total Safety Complaints
- 5- Control Metric
- 6- Turbulence In gforces
- 7- Cabin Temprature
- 8- Accident type
- 9- Max_ Elevation
- 10- Violations
- 11- Adverse Weather Metric
- 12- Accident ID
+ 1- Severity (target) $\n
+ 2- Safety Score   $\n
+ 3- Days Since Inspection $\n
+ 4- Total Safety Complaints $\n
+ 5- Control Metric $\n
+ 6- Turbulence In gforces $\n
+ 7- Cabin Temprature $\n
+ 8- Accident type $\n
+ 9- Max_ Elevation $\n
+ 10- Violations $\n
+ 11- Adverse Weather Metric $\n
+ 12- Accident ID $\n
