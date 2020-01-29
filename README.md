@@ -32,5 +32,14 @@ The benefits of practicing this problem by using Machine Learning techniques are
 
 ### Classification by tensorflow estimaor : 
 
+All the attributes are numerical expect two that is Accident type code and Violations.
+
+To write TF2.0 program based on pre-made estimators, Tasks are -
+1. Create one or more input functions.
+2. Define the model's feature columns.
+3. Instantiate an estimator, specify the feature columns and various hyperparameter.
+4. Call one or more methods on an estimator object, passing the appropriate input function as the source of the data.
+
+But Accuracy is very bad. approx. 31%
 
 ### Classification using scikit-learn
