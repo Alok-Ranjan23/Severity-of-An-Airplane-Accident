@@ -28,3 +28,9 @@ The benefits of practicing this problem by using Machine Learning techniques are
  10- Violations <br/>
  11- Adverse Weather Metric <br/>
  12- Accident ID <br/>
+
+
+###Classification by tensorflow estimaor : 
+
+
+### Classification using scikit-learn
